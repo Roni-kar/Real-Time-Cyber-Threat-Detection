@@ -1,0 +1,14 @@
+# AI Model & Data Processing
+scikit-learn
+pandas
+numpy
+
+# Backend API
+fastapi
+uvicorn
+
+# Network Sniffer
+scapy
+
+# Frontend UI
+streamlit
