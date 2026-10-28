@@ -1,14 +1,8 @@
-# AI Model & Data Processing
-scikit-learn
-pandas
-numpy
-
-# Backend API
 fastapi
 uvicorn
-
-# Network Sniffer
+scikit-learn
+joblib
 scapy
-
-# Frontend UI
 streamlit
+requests
+pandas
