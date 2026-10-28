@@ -1,0 +1,5 @@
+# Optional research comparison dependency.
+# Install after the core stack when XGBoost comparison is required:
+#   python -m pip install -r requirements-research.txt
+-r requirements.txt
+xgboost>=2.0,<4.0

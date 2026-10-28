@@ -218,3 +218,10 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Local intrusion-detection runtime artifacts
+ai_model/artifacts/
+backend_api/data/*.db
+backend_api/data/*.db-shm
+backend_api/data/*.db-wal
+logs/
